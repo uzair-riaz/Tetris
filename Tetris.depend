@@ -1,0 +1,941 @@
+# depslib dependency file v1.0
+1464031465 source:c:\users\ali\desktop\programs\tetris v8.0\block.cpp
+	"Block.h"
+
+1464023725 c:\users\ali\desktop\programs\tetris v8.0\block.h
+	<iostream>
+	<windows.h>
+	"Graphics.h"
+
+1464304730 c:\users\ali\desktop\programs\tetris v8.0\graphics.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+	<cstring>
+	<stdlib.h>
+
+1464304730 source:c:\users\ali\desktop\programs\tetris v8.0\board.cpp
+	"Board.h"
+	<iostream>
+	<cstdlib>
+	<time.h>
+
+1464304730 c:\users\ali\desktop\programs\tetris v8.0\board.h
+	"Block.h"
+	"Graphics.h"
+	"J_BLOCK.h"
+	"L_BLOCK.h"
+	"S_BLOCK.h"
+	"Z_BLOCK.h"
+	"I_BLOCK.h"
+	"O_BLOCK.h"
+	"T_BLOCK.h"
+
+1462444178 c:\users\ali\desktop\programs\tetris v8.0\j_block.h
+	"Block.h"
+
+1462735233 c:\users\ali\desktop\programs\tetris v8.0\l_block.h
+	"Block.h"
+
+1462444152 c:\users\ali\desktop\programs\tetris v8.0\s_block.h
+	"Block.h"
+
+1462444162 c:\users\ali\desktop\programs\tetris v8.0\z_block.h
+	"Block.h"
+
+1462444174 c:\users\ali\desktop\programs\tetris v8.0\i_block.h
+	"Block.h"
+
+1462444150 c:\users\ali\desktop\programs\tetris v8.0\o_block.h
+	"Block.h"
+
+1462444156 c:\users\ali\desktop\programs\tetris v8.0\t_block.h
+	"Block.h"
+
+1464305651 source:c:\users\ali\desktop\programs\tetris v8.0\graphics.cpp
+	"Graphics.h"
+
+1463755067 source:c:\users\ali\desktop\programs\tetris v8.0\i_block.cpp
+	"I_BLOCK.h"
+
+1464029826 source:c:\users\ali\desktop\programs\tetris v8.0\icon.rc
+
+1463682093 source:c:\users\ali\desktop\programs\tetris v8.0\j_block.cpp
+	"J_BLOCK.h"
+
+1463682109 source:c:\users\ali\desktop\programs\tetris v8.0\l_block.cpp
+	"L_BLOCK.h"
+
+1464305714 source:c:\users\ali\desktop\programs\tetris v8.0\main.cpp
+	"Tetris.h"
+
+1464294948 c:\users\ali\desktop\programs\tetris v8.0\tetris.h
+	<SDL_mixer.h>
+	"Board.h"
+	"Graphics.h"
+
+1462444182 source:c:\users\ali\desktop\programs\tetris v8.0\o_block.cpp
+	"O_BLOCK.h"
+
+1463682146 source:c:\users\ali\desktop\programs\tetris v8.0\s_block.cpp
+	"S_BLOCK.h"
+
+1463682167 source:c:\users\ali\desktop\programs\tetris v8.0\t_block.cpp
+	"T_BLOCK.h"
+
+1463682196 source:c:\users\ali\desktop\programs\tetris v8.0\z_block.cpp
+	"Z_BLOCK.h"
+
+1464304730 source:c:\users\ali\desktop\programs\tetris v8.0\tetris.cpp
+	"Tetris.h"
+
+1464479465 source:c:\users\ali\desktop\programs\tetris graphics\block.cpp
+	"Block.h"
+
+1464479465 c:\users\ali\desktop\programs\tetris graphics\block.h
+	<iostream>
+	<windows.h>
+	"Graphics.h"
+
+1464562884 c:\users\ali\desktop\programs\tetris graphics\graphics.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<cstring>
+	<stdlib.h>
+	<string>
+
+1464540840 source:c:\users\ali\desktop\programs\tetris graphics\board.cpp
+	"Board.h"
+	<iostream>
+	<cstdlib>
+	<time.h>
+
+1464478017 c:\users\ali\desktop\programs\tetris graphics\board.h
+	"Block.h"
+	"Graphics.h"
+	"J_BLOCK.h"
+	"L_BLOCK.h"
+	"S_BLOCK.h"
+	"Z_BLOCK.h"
+	"I_BLOCK.h"
+	"O_BLOCK.h"
+	"T_BLOCK.h"
+
+1462444178 c:\users\ali\desktop\programs\tetris graphics\j_block.h
+	"Block.h"
+
+1462735233 c:\users\ali\desktop\programs\tetris graphics\l_block.h
+	"Block.h"
+
+1462444152 c:\users\ali\desktop\programs\tetris graphics\s_block.h
+	"Block.h"
+
+1462444162 c:\users\ali\desktop\programs\tetris graphics\z_block.h
+	"Block.h"
+
+1462444174 c:\users\ali\desktop\programs\tetris graphics\i_block.h
+	"Block.h"
+
+1462444150 c:\users\ali\desktop\programs\tetris graphics\o_block.h
+	"Block.h"
+
+1462444156 c:\users\ali\desktop\programs\tetris graphics\t_block.h
+	"Block.h"
+
+1464562884 source:c:\users\ali\desktop\programs\tetris graphics\graphics.cpp
+	"Graphics.h"
+
+1463755067 source:c:\users\ali\desktop\programs\tetris graphics\i_block.cpp
+	"I_BLOCK.h"
+
+1464029826 source:c:\users\ali\desktop\programs\tetris graphics\icon.rc
+
+1463682093 source:c:\users\ali\desktop\programs\tetris graphics\j_block.cpp
+	"J_BLOCK.h"
+
+1463682109 source:c:\users\ali\desktop\programs\tetris graphics\l_block.cpp
+	"L_BLOCK.h"
+
+1462444182 source:c:\users\ali\desktop\programs\tetris graphics\o_block.cpp
+	"O_BLOCK.h"
+
+1463682146 source:c:\users\ali\desktop\programs\tetris graphics\s_block.cpp
+	"S_BLOCK.h"
+
+1463682167 source:c:\users\ali\desktop\programs\tetris graphics\t_block.cpp
+	"T_BLOCK.h"
+
+1464563024 source:c:\users\ali\desktop\programs\tetris graphics\tetris.cpp
+	"Tetris.h"
+
+1464567967 c:\users\ali\desktop\programs\tetris graphics\tetris.h
+	<SDL_mixer.h>
+	<iostream>
+	<fstream>
+	"Board.h"
+	"Graphics.h"
+
+1463682196 source:c:\users\ali\desktop\programs\tetris graphics\z_block.cpp
+	"Z_BLOCK.h"
+
+1464567821 source:c:\users\ali\desktop\programs\tetris graphics\main.cpp
+	"Tetris.h"
+
+1451764693 c:\users\ali\desktop\programs\tetris graphics\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\ali\desktop\programs\tetris graphics\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\ali\desktop\programs\tetris graphics\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1451764693 c:\users\ali\desktop\programs\tetris graphics\include\sdl_config.h
+	"SDL_platform.h"
+
+1451764693 c:\users\ali\desktop\programs\tetris graphics\include\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\ali\desktop\programs\tetris graphics\include\begin_code.h
+
+1451764693 c:\users\ali\desktop\programs\tetris graphics\include\close_code.h
+
+1451764693 c:\users\ali\desktop\programs\tetris graphics\include\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1451764693 c:\users\ali\desktop\programs\tetris graphics\include\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1451764693 c:\users\ali\desktop\programs\tetris graphics\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\ali\desktop\programs\tetris graphics\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\ali\desktop\programs\tetris graphics\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\ali\desktop\programs\tetris graphics\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\ali\desktop\programs\tetris graphics\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1451764693 c:\users\ali\desktop\programs\tetris graphics\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\ali\desktop\programs\tetris graphics\include\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\ali\desktop\programs\tetris graphics\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\ali\desktop\programs\tetris graphics\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\ali\desktop\programs\tetris graphics\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\ali\desktop\programs\tetris graphics\include\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\ali\desktop\programs\tetris graphics\include\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\ali\desktop\programs\tetris graphics\include\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\ali\desktop\programs\tetris graphics\include\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\ali\desktop\programs\tetris graphics\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\ali\desktop\programs\tetris graphics\include\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1451764693 c:\users\ali\desktop\programs\tetris graphics\include\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1451764693 c:\users\ali\desktop\programs\tetris graphics\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\ali\desktop\programs\tetris graphics\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\ali\desktop\programs\tetris graphics\include\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\ali\desktop\programs\tetris graphics\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1451764693 c:\users\ali\desktop\programs\tetris graphics\include\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\ali\desktop\programs\tetris graphics\include\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\ali\desktop\programs\tetris graphics\include\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\ali\desktop\programs\tetris graphics\include\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\ali\desktop\programs\tetris graphics\include\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\ali\desktop\programs\tetris graphics\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\ali\desktop\programs\tetris graphics\include\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\ali\desktop\programs\tetris graphics\include\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\ali\desktop\programs\tetris graphics\include\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\ali\desktop\programs\tetris graphics\include\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\ali\desktop\programs\tetris graphics\include\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\ali\desktop\programs\tetris graphics\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\ali\desktop\programs\tetris graphics\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454362933 c:\users\ali\desktop\programs\tetris graphics\include\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451801791 c:\users\ali\desktop\programs\tetris graphics\include\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1464479465 source:c:\users\uzair\downloads\programs\tetris graphics\block.cpp
+	"Block.h"
+
+1464479465 c:\users\uzair\downloads\programs\tetris graphics\block.h
+	<iostream>
+	<windows.h>
+	"Graphics.h"
+
+1464562884 c:\users\uzair\downloads\programs\tetris graphics\graphics.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<cstring>
+	<stdlib.h>
+	<string>
+
+1451764693 c:\users\uzair\downloads\programs\tetris graphics\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\uzair\downloads\programs\tetris graphics\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\uzair\downloads\programs\tetris graphics\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1451764693 c:\users\uzair\downloads\programs\tetris graphics\include\sdl_config.h
+	"SDL_platform.h"
+
+1451764693 c:\users\uzair\downloads\programs\tetris graphics\include\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\uzair\downloads\programs\tetris graphics\include\begin_code.h
+
+1451764693 c:\users\uzair\downloads\programs\tetris graphics\include\close_code.h
+
+1451764693 c:\users\uzair\downloads\programs\tetris graphics\include\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1451764693 c:\users\uzair\downloads\programs\tetris graphics\include\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1451764693 c:\users\uzair\downloads\programs\tetris graphics\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\uzair\downloads\programs\tetris graphics\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\uzair\downloads\programs\tetris graphics\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\uzair\downloads\programs\tetris graphics\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\uzair\downloads\programs\tetris graphics\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1451764693 c:\users\uzair\downloads\programs\tetris graphics\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\uzair\downloads\programs\tetris graphics\include\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\uzair\downloads\programs\tetris graphics\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\uzair\downloads\programs\tetris graphics\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\uzair\downloads\programs\tetris graphics\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\uzair\downloads\programs\tetris graphics\include\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\uzair\downloads\programs\tetris graphics\include\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\uzair\downloads\programs\tetris graphics\include\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\uzair\downloads\programs\tetris graphics\include\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\uzair\downloads\programs\tetris graphics\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\uzair\downloads\programs\tetris graphics\include\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1451764693 c:\users\uzair\downloads\programs\tetris graphics\include\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1451764693 c:\users\uzair\downloads\programs\tetris graphics\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\uzair\downloads\programs\tetris graphics\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\uzair\downloads\programs\tetris graphics\include\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\uzair\downloads\programs\tetris graphics\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1451764693 c:\users\uzair\downloads\programs\tetris graphics\include\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\uzair\downloads\programs\tetris graphics\include\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\uzair\downloads\programs\tetris graphics\include\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\uzair\downloads\programs\tetris graphics\include\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\uzair\downloads\programs\tetris graphics\include\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\uzair\downloads\programs\tetris graphics\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\uzair\downloads\programs\tetris graphics\include\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\uzair\downloads\programs\tetris graphics\include\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\uzair\downloads\programs\tetris graphics\include\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\uzair\downloads\programs\tetris graphics\include\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\uzair\downloads\programs\tetris graphics\include\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\uzair\downloads\programs\tetris graphics\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\uzair\downloads\programs\tetris graphics\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454362933 c:\users\uzair\downloads\programs\tetris graphics\include\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1464540840 source:c:\users\uzair\downloads\programs\tetris graphics\board.cpp
+	"Board.h"
+	<iostream>
+	<cstdlib>
+	<time.h>
+
+1464478017 c:\users\uzair\downloads\programs\tetris graphics\board.h
+	"Block.h"
+	"Graphics.h"
+	"J_BLOCK.h"
+	"L_BLOCK.h"
+	"S_BLOCK.h"
+	"Z_BLOCK.h"
+	"I_BLOCK.h"
+	"O_BLOCK.h"
+	"T_BLOCK.h"
+
+1462444178 c:\users\uzair\downloads\programs\tetris graphics\j_block.h
+	"Block.h"
+
+1462735233 c:\users\uzair\downloads\programs\tetris graphics\l_block.h
+	"Block.h"
+
+1462444152 c:\users\uzair\downloads\programs\tetris graphics\s_block.h
+	"Block.h"
+
+1462444162 c:\users\uzair\downloads\programs\tetris graphics\z_block.h
+	"Block.h"
+
+1462444174 c:\users\uzair\downloads\programs\tetris graphics\i_block.h
+	"Block.h"
+
+1462444150 c:\users\uzair\downloads\programs\tetris graphics\o_block.h
+	"Block.h"
+
+1462444156 c:\users\uzair\downloads\programs\tetris graphics\t_block.h
+	"Block.h"
+
+1742489166 source:c:\users\uzair\downloads\programs\tetris graphics\graphics.cpp
+	"Graphics.h"
+
+1463755067 source:c:\users\uzair\downloads\programs\tetris graphics\i_block.cpp
+	"I_BLOCK.h"
+
+1464029826 source:c:\users\uzair\downloads\programs\tetris graphics\icon.rc
+
+1463682093 source:c:\users\uzair\downloads\programs\tetris graphics\j_block.cpp
+	"J_BLOCK.h"
+
+1463682109 source:c:\users\uzair\downloads\programs\tetris graphics\l_block.cpp
+	"L_BLOCK.h"
+
+1464567821 source:c:\users\uzair\downloads\programs\tetris graphics\main.cpp
+	"Tetris.h"
+
+1464567967 c:\users\uzair\downloads\programs\tetris graphics\tetris.h
+	<SDL_mixer.h>
+	<iostream>
+	<fstream>
+	"Board.h"
+	"Graphics.h"
+
+1451801791 c:\users\uzair\downloads\programs\tetris graphics\include\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1462444182 source:c:\users\uzair\downloads\programs\tetris graphics\o_block.cpp
+	"O_BLOCK.h"
+
+1463682146 source:c:\users\uzair\downloads\programs\tetris graphics\s_block.cpp
+	"S_BLOCK.h"
+
+1463682167 source:c:\users\uzair\downloads\programs\tetris graphics\t_block.cpp
+	"T_BLOCK.h"
+
+1464568036 source:c:\users\uzair\downloads\programs\tetris graphics\tetris.cpp
+	"Tetris.h"
+
+1463682196 source:c:\users\uzair\downloads\programs\tetris graphics\z_block.cpp
+	"Z_BLOCK.h"
+
